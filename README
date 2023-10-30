@@ -1,25 +1,21 @@
 ---
-transcendent.ink
--- Welcome to transcendent.ink!
--- A home for all sorts of things
+transcendent
+-- Transcend from the ink
 ---
-On Here:
--- Admin home page
-  >> ://m.transcendent.ink
--- 18+
----- Beat Banger Catalogue
-  >>>> ://bbooru.fun
--- Git
----- https 
-  >> ://g.transcendent.ink
----- ssh
-  >> ://ssh://g.transcendent.ink
--- Standalone scripts
-  >> ://s.transcendent.ink
--- Lilly's art!!:
-  >> ://lilly.ink
--- Various Assets:
-  >> ://transcendent.ink/src
+
 ---
-And plenty more under construction!
+local subdomains
+-- h -> ://h.transcendent.ink
+-- m -> ://m.transcendent.ink
+-- g -> ://g.transcendent.ink
+-- s -> ://s.transcendent.ink
 ---
+
+---
+outer domains
+-- ://bbooru.fun
+-- ://ssh://g.transcendent.ink
+-- ://lilly.ink
+-- ://transcendent.ink/src
+---
+More to Come
