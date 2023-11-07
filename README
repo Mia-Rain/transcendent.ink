@@ -4,20 +4,16 @@ transcendent
 ---
 
 ---
-local subdomains
--- hub -> ://h.transcendent.ink
--- mia -> ://m.transcendent.ink
--- git -> ://g.transcendent.ink
--- rsh -> ://r.transcendent.ink
--- mOS -> ://o.tranacendent.ink
--- sh  -> ://s.transcendent.ink
+domains
+-- hub       -> ://h.transcendent.ink
+-- mia info  -> ://m.transcendent.ink
+-- web git   -> ://g.transcendent.ink
+-- rsh       -> ://r.transcendent.ink
+-- mlanOS    -> ://o.tranacendent.ink
+-- concepts  -> ://c.transcendent.ink
+-- mlang     -> ://l.transcendent.ink
+-- scripts   -> ://s.transcendent.ink
 ---
-
----
-outer domains
--- ://bbooru.fun
--- ://ssh://g.transcendent.ink
--- ://lilly.ink
--- ://transcendent.ink/src
+--  ://assets
 ---
 More to Come
