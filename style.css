@@ -1,24 +1,25 @@
-@media (prefers-color-scheme: dark), (prefers-color-scheme: preference) {
-	body {
-		background-color: black !important;
-		font-family: monospace; /* better to use in system monospace */
-    padding: 100px;
-    font-size: 16px;
-	}
-	pre {
-		color: white !important;
-		background-color: black !important;
+root {
+	--font: black;
+	--bg: white;
+}
+body {
+	font-family: Monoid;
+	src: url('https://h.transcendent.ink/src/Monoid-Bold.ttf') format('truetype');
+	padding: 100px;
+	font-size: 16px;
+	background-color: var(--bg);
+	color: var(--font);
+}
+
+@media (prefers-color-scheme: light) {
+	root {
+		--font: black;
+		--bg: white;
 	}
 }
-@media (prefers-color-scheme: light) {
-	body {
-		background-color: white !important;
-		font-family: monospace; /* better to use in system monospace */
-    padding: 100px;
-    font-size: 16px;
-	}
-	pre {
-		color: black !important;
-		background-color: white !important;
+@media (prefers-color-scheme: dark) {
+	root {
+		--bg: black;
+		--font: white;
 	}
 }
